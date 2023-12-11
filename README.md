@@ -13,12 +13,10 @@ Tenho habilidades sólidas em front-end, utilizando tecnologias como:
 - HTML
 - CSS
 - JavaScript
-- Git (versionamento de código)
-- Bootstrap (habilidade avançada)
-- React.js (habilidade básica)
-- Gulp.js (habilidade básica)
-- Sass
-- Node.js (habilidade básica)
+- Git
+- Bootstrap
+- Node.js
+- PostgreSQL
 
 Estou sempre em busca de aprender e aprimorar minhas habilidades, e estou entusiasmado com novos desafios!
 
