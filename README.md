@@ -1,6 +1,6 @@
 # Um pouco mais sobre mim 👋
 
-Olá! Eu sou o Victor Luiz, sou um **Desenvolvedor de Software,** apaixonado por criar aplicações atraentes e funcionais. Iniciei nessa área desde 2019 e sou formado em Análise e Desenvolvimento de Sistemas pela Fatec. Minha jornada inclui experiência como estagiário em desenvolvimento front-end e também em teste de qualidade de software.
+Olá! Eu sou o Victor Luiz, sou um **Analista** adentrando no universo de tecnologia. Iniciei nessa área desde 2019 estudando sobre desenvolvimento web e aprofundei meus estudos em diversas áreas de TI, sou formado em Análise e Desenvolvimento de Sistemas. Atualemnte na área e atudo com todas as necessidades solicitadas, indo desde manutenção e redes, até a criação de relatórios e dash em power BI e customizações em ADVPL para o ERP Totvs Protheus.
 
 ## Estatísticas de Linguagens 📊
 
@@ -8,22 +8,24 @@ Olá! Eu sou o Victor Luiz, sou um **Desenvolvedor de Software,** apaixonado por
 
 ## Habilidades e Tecnologias 🚀
 
-Tenho habilidades sólidas em front-end, utilizando tecnologias como:
+Tenho habilidades em tecnologias como:
 
+- Power BI
+- Excel
+- SQL Server
+- PostgreSQL
 - HTML
 - CSS
 - JavaScript
 - Git
 - Bootstrap
 - Node.js
-- PostgreSQL
+- Advpl
 
-Estou sempre em busca de aprender e aprimorar minhas habilidades, e estou entusiasmado com novos desafios!
+Estou sempre em busca de aprender e aprimorar minhas habilidades, aprendendo algo novo (ou reaprendendo algo antigo) todos os dias!
 
 ## Contato 🌐
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/victor-luiz-68094b1a5/) para saber mais sobre minha jornada no desenvolvimento front-end. Também pode entrar em contato por email: victor.silva208@fatec.sp.gov.br e victor6000.professional@gmail.com.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/victor-luiz-lopes/) para saber mais sobre minha jornada você também pode entrar em contato por email: victor6000.professional@gmail.com ou no número (17) 98155-2190.
 
 Fique à vontade para explorar meus projetos e entrar em contato!
-
-
